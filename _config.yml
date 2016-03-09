@@ -1,0 +1,28 @@
+name: versive
+favicon: null
+layout_spectrum: 0.5235707927495241
+typography_spectrum: 0.08416680828668177
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8595405868254602
+  lightness: 0.1710718316026032
+  saturation: 0.13387724198400974
+  rhythmicContrast: 0.16936481930315495
+purpose: []
